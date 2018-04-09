@@ -1,0 +1,2 @@
+# AFNetWorking
+AFNetWorking二次封装，采用YYCache缓存,下载下来更好接口url即可使用
