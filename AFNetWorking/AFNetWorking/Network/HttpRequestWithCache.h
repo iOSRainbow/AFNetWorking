@@ -16,7 +16,6 @@
 
 @optional
 
--(void)httpError:(NSString *)error bindTag:(NSString *)bindTag;
 
 @end
 
